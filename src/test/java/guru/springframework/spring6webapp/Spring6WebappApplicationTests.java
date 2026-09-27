@@ -5,8 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Spring6WebappApplicationTests {
-    /**test Sep 23 2026 Wednesday evening */
-    @Test
+    /**test Sep 27 2026*/
     void contextLoads() {
     }
 
